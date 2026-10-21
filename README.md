@@ -19,8 +19,5 @@ Placement teams need a quick view of how many students are placed and in which [
 - [e.g., Average and highest package]
 - [e.g., Department-wise placements]
 
-## Files
-- `[file name].xlsx`: Excel dashboard
-
 ## Author
 Subhashini M | [LinkedIn](https://www.linkedin.com/in/subhashini-murugan) | [GitHub](https://github.com/Suuuubha)
